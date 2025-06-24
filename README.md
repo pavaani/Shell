@@ -1,3 +1,3 @@
 # Shell
-Schell Scripts practising
+Schell Scripts
 
