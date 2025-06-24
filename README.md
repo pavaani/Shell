@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts Practising
+Schell Scripts Practising examples
